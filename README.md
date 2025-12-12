@@ -7,3 +7,4 @@
     timm == 0.6.13
     pytorch == 1.8.0
     albumentations == 1.3.0
+    
